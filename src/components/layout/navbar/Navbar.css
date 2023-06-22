@@ -1,0 +1,32 @@
+.navBarDiv{
+    background-color: rgb(5, 5, 119);
+    display: flex;
+    justify-content: space-between;
+    padding: 2em 1em 2em 1em;
+}
+
+.NavBarUl{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.NavBarLi{
+    list-style: none;
+    padding-left: 1em;
+    margin-top: 1em;
+
+}
+.NavBarA{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.NavBarA:hover{
+    background: rgb(1, 1, 94);
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 75%;
+    height: 10em;
+    width: 10em;
+    font-size: 1.2em;
+}

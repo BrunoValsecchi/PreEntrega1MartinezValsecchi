@@ -1,0 +1,15 @@
+.numHardcDiv{
+    background: rgb(194, 0, 0);
+    border-radius: 50%;
+    color: whitesmoke;
+    height: 1em;
+    position: relative;
+    width: 1em;
+    
+}
+
+.numHardP{
+    hyphens: auto;
+  text-align: center;
+  font-size: .9em;
+}
